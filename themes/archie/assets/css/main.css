@@ -1,7 +1,7 @@
 /* Markdown */
 :root{
---maincolor: red;
---bordercl:rebeccapurple;
+--maincolor: pink;
+--bordercl:yellow;
 --callouctcolor:dodgerblue;
 --hovercolor:navy;
 --darkMaincolor: #50fa7b;
@@ -15,6 +15,7 @@ html {
 body{
   display: block;
   margin: 8px;
+  background: yellow;
 }
 * {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -22,7 +23,7 @@ body{
 
 ::selection {
   background: var(--maincolor);
-  color: #fff;
+  color: pink;
 }
 
 p {

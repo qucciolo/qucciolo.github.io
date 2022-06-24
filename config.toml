@@ -1,15 +1,15 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Archie"
+title = "CuccioloCoin"
 theme="archie"
-copyright = "© Athul"
+copyright = "Q"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "DeFi Gata"
 
 [[params.social]]
 name = "GitHub"
