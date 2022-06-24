@@ -2,7 +2,7 @@
 title: CuccioloCoin is THE FUTURE!!!!
 date: "2020-04-01"
 description: Cucciolo coin has cryptos and Cucciolo in the same name! ![](immagine.png)
-tldr: Cucciolo Coin is shit, don't waste your time here!
+tldr: Cucciolo Coin is THE FUTURE
 ---
 
 On July 23 2022, a mysterious programmer by the name of Qtoshi Favamoto
