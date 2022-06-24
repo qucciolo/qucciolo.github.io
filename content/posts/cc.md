@@ -14,8 +14,10 @@ released Cucciolo Coin to the world.
 
 ## Cucciolo VS Musk
 
-Cucciolo is clearly superior in Dr. Evil face, this will really bring Cucciolo Coin TO THE MOON.
+Favamoto accepting Elon's challenge for cryptopowered Mars colonization!
 
 ![](images/plot.png)
 
+
+Cucciolo Coin TO THE MOON, Elon smell the dust!
 

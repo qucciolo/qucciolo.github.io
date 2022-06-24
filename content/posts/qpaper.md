@@ -5,7 +5,7 @@ description: Favamoto the Man
 tldr: Cucciolo Coin is shit, don't waste your time here!
 ---
 
-A rare picture of the anonymous Qtoshi Favamoto
+A rare signed picture of the anonymous Qtoshi Favamoto
 with his famous white paper
 
 
